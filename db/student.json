@@ -1,0 +1,18 @@
+{
+  "student": [
+    {
+      "id": "3217",
+      "name": "Amar",
+      "fee": "100",
+      "gender": "male",
+      "address": "sdhk"
+    },
+    {
+      "id": "72dc",
+      "name": "Nidhi",
+      "fee": "4000",
+      "gender": "female",
+      "address": "dfsgsdfg"
+    }
+  ]
+}
